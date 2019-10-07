@@ -1,0 +1,10 @@
+.idea
+.npmrc
+.vscode
+.yarnclean
+yarn-error.log
+node_modules
+temp
+test-results/
+junit.xml
+dist
