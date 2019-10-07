@@ -1,8 +1,10 @@
 {
-  "name": "graphql-codegen-flow-apollo",
+  "name": "@lingard/graphql-codegen-flow-apollo",
   "version": "0.1.0",
   "license": "MIT",
   "private": false,
+  "author": "Christer Lingard <lingard.christer@gmail.com>",
+  "repository": "https://github.com/lingard/graphql-codegen-flow-apollo",
   "main": "dist/commonjs/index.js",
   "module": "dist/esnext/index.js",
   "typings": "dist/esnext/index.d.ts",
